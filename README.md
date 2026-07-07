@@ -1,5 +1,3 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Build a Delta Lake ETL Pipeline
 
 **Project Link:** [View Project](https://nextwork.ai/projects/bf6fb326-95f0-4154-95e5-246aba8f2101)
@@ -131,5 +129,3 @@ I did this project today to learn how to build a complete ETL pipeline in Databr
 Another skill I want to learn is working with Azure Data Factory to orchestrate data pipelines across cloud and on-premises sources. I'm interested in understanding how to use copy activities, data flows, and triggers to build hybrid ETL solutions that integrate with Databricks and Azure Synapse.
 
 ---
-
-*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/bf6fb326-95f0-4154-95e5-246aba8f2101)*
